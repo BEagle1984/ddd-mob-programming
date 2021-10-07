@@ -1,4 +1,5 @@
 ﻿using System;
+using ddd_mob_programming.Model.ValueObjects;
 using FluentAssertions;
 using Xunit;
 
